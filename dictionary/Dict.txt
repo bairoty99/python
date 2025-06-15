@@ -1,0 +1,27 @@
+#--------------------------------
+#-------Dictionary_methods-------
+#--------------------------------
+
+	
+•	Clear() ===> clear dict
+•	update() ===> to update dict with new items
+•	copy() ===> do shalow copy
+•	keys() ===> return only dict keys
+•	value() ===> return only dict value
+•	setdefault() ===> set default element value 
+•	popitem() ===> return last item added to dict
+•	items() ===> return all items in dict [(key,value),(key,value)]
+•	dict.fromkeys(key variable,value variable) ===> make dict from this arguments
+•	
+•		
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	

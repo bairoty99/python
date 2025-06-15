@@ -1,0 +1,41 @@
+#------------------------------------------
+#--------------string methods--------------
+#------------------------------------------
+
+
+•	title()  ===> to make first letter of all  capital letter
+•	capitalize() ===>  to make first letter of sentence capital letter
+•	upper() ===> to make all letter of sentence capital letter
+•	lower() ===> to make all letter of sentence small letter
+•	swapcase() ===> to swap all letter upper to lower and rev
+•	strp(),rstrip(),lstrip() ===> to remove spaces or spicial char from left and right
+•	rjust(width, fill char), ljust(width, fill char)  ===> to just string with char from right or left
+•	center() ===> to put string or any thing in between char or spaces 
+•	zfill() ===> to fill numbers with zero's
+•	spilt(),rsplit() ===> to spilt all sentence in list 
+•   splitlines() ===> to spilt all sentence with multip line in list 
+•	count() ===> to search for string or char or number in sentence and count them
+•	startwith(),endwith() ===> to check if start with char or end with it
+•	index(substring,start,end) ===>  to search for string in sentence**with error
+•	find(substring,start,end) ===>  to search for string in sentence**without error return -1
+•	expandtabs() ===> to expandtabs width
+•	istitle(), isspace(), islower(),isupper()
+•	isidentifier() 
+•	isalpha() just alphabit
+•	isalnum() alphabit and numbers
+•	replace(old value,new value ,count) ===> to replace value with other
+•	join(iterable) ===> to put char between string for list or iterable things 
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+
+ 
