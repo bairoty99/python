@@ -17,10 +17,21 @@
 # else:
 #     print("FK u bsh")
 # ------------------------------------------------------------------
-def test_fun():
-    print("Hello am testing this function")
-def welcomeMessage(name):
-    print("welcome {} in this testing code" .format(str(name)))
-    print(f"you have permision to pass {name}")
-test_fun()
-welcomeMessage("mohamad")
+# def test_fun():
+#     print("Hello am testing this function")
+# def welcomeMessage(name):
+#     print("welcome {} in this testing code" .format(str(name)))
+#     print(f"you have permision to pass {name}")
+# test_fun()
+# welcomeMessage("mohamad")
+
+#-------------------------------------
+suspatios_IpaAddresses=["192.168.166.89","82.145.36.1","48.155.6.94"]
+#Fanction to get first 3 ip addresses and add it to new list
+def getf3ips(x):
+    newIpAddresses=[]
+    for ip in x:
+        newIpAddresses.append(ip[:ip.index(".")])
+    return newIpAddresses
+
+print(getf3ips(suspatios_IpaAddresses))
